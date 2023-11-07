@@ -1,0 +1,52 @@
+#div1{
+    float: left;
+    background-color: aqua;
+    padding: 4px;
+}
+
+#div2{
+    float: right;
+    background-color: aqua;
+    padding: 4px;
+}
+
+#header{
+    background-color: red;
+    text-shadow: 3px 3px 3px blue;
+    padding: 4px;
+}
+
+#note{
+    background-color: gold;
+    text-shadow: 3px 3px 3px orangered;
+}
+
+#button_play{
+    background-color: green;
+    padding: 4px;
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+font-family: 'Kalam', cursive;
+color: brown;
+text-shadow: 3px 3px 3px grey;
+font-size: 30px;
+   
+    
+}
+
+body{
+    background-image: url("page.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    font-family: 'Kalam', cursive;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+
+}
+
+canvas{
+    margin-top: 50px;
+}
